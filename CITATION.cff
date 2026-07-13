@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using this metadata."
+title: "ALETHEIA Truth Compiler: Complete Blueprint for Information Certification, Evidence DNA, and Truth Discovery"
+type: report
+authors:
+  - family-names: "Haxhijaha"
+    given-names: "Agim"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0002-3234-7765"
+doi: "10.5281/zenodo.21344789"
+version: "2.0"
+date-released: "2026-07-13"
+repository-code: "https://github.com/AGIM8003/aletheia-truth-compiler"
+license: "CC-BY-NC-ND-4.0"
+abstract: >-
+  A proposed local-first and open-protocol architecture for Evidence DNA,
+  information certification, bounded truth discovery, source-independence
+  analysis, contradiction testing, falsification, uncertainty representation,
+  and reproducible Truth Receipts. The publication does not claim universal or
+  absolute truth detection and does not claim an implemented or scientifically
+  validated system.
+keywords:
+  - "Evidence DNA"
+  - "evidence provenance"
+  - "information certification"
+  - "truth discovery"
+  - "source independence"
+  - "artificial intelligence reliability"
+  - "metacognition"
+  - "cryptographic lineage"
+  - "uncertainty"
+  - "falsification"

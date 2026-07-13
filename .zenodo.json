@@ -1,0 +1,32 @@
+{
+  "title": "ALETHEIA Truth Compiler: Complete Blueprint for Information Certification, Evidence DNA, and Truth Discovery",
+  "description": "ALETHEIA is a proposed local-first and open-protocol infrastructure for Evidence DNA, information certification, and bounded truth discovery. It preserves information lineage, separates integrity certification from truth claims, detects hidden source dependency, tests contradiction and falsification, represents uncertainty, and produces reproducible Truth Receipts. The work is an independent technical blueprint. It does not claim universal or absolute truth detection, an implemented reference system, scientific validation, patent protection, or peer review.",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "creators": [
+    {
+      "name": "Haxhijaha, Agim",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0002-3234-7765"
+    }
+  ],
+  "publication_date": "2026-07-13",
+  "version": "2.0",
+  "language": "eng",
+  "license": "cc-by-nc-nd-4.0",
+  "keywords": [
+    "Evidence DNA",
+    "evidence provenance",
+    "information certification",
+    "truth discovery",
+    "truth receipts",
+    "source independence",
+    "artificial intelligence reliability",
+    "metacognition",
+    "cryptographic lineage",
+    "uncertainty",
+    "falsification",
+    "information integrity"
+  ],
+  "notes": "Independent technical blueprint. Version 2.0. Not peer reviewed. Proposed architecture; reference implementation not yet built. Generative AI tools assisted preparation and organization. The named author is responsible for the released content and publication decision."
+}
