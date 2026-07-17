@@ -1,0 +1,30 @@
+{
+  "framework": "ALETHEIA",
+  "author": "Haxhijaha, Agim",
+  "orcid": "0009-0002-3234-7765",
+  "timestamp": "2026-07-17T07:11:12.793428+00:00",
+  "approach": "primary=content_digest; alt=merkle_rolling; independence formula replicated",
+  "digest_rows": [
+    {
+      "content": "hello",
+      "primary": "ecde74e5ec28f31f",
+      "alt": "2cf24dba5fb0a30e",
+      "primary_len": 64
+    },
+    {
+      "content": "derived",
+      "primary": "b8de5dcb4d04cef8",
+      "alt": "f468918565333d23",
+      "primary_len": 64
+    },
+    {
+      "content": "leaf",
+      "primary": "a545731bedc6fcb5",
+      "alt": "861e8a0c509bcbaa",
+      "primary_len": 64
+    }
+  ],
+  "independence_primary": 0.6667,
+  "independence_alt": 0.6667,
+  "replication_pass": true
+}

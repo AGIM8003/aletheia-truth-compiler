@@ -1,0 +1,52 @@
+{
+  "framework": "ALETHEIA",
+  "author": "Haxhijaha, Agim",
+  "orcid": "0009-0002-3234-7765",
+  "timestamp": "2026-07-17T07:11:12.867813+00:00",
+  "results": [
+    {
+      "mutation": "drop_sources",
+      "killed": true
+    },
+    {
+      "mutation": "reverse_sources",
+      "killed": false
+    },
+    {
+      "mutation": "corrupt_content",
+      "killed": true
+    },
+    {
+      "mutation": "empty_content",
+      "killed": true
+    },
+    {
+      "mutation": "ignore_overlap",
+      "killed": true
+    },
+    {
+      "mutation": "always_zero",
+      "killed": true
+    },
+    {
+      "mutation": "flip_formula",
+      "killed": true
+    },
+    {
+      "mutation": "single_item_wrong",
+      "killed": true
+    },
+    {
+      "mutation": "duplicate_pair_count",
+      "killed": true
+    },
+    {
+      "mutation": "identity_hash_mut",
+      "killed": true
+    }
+  ],
+  "killed": 9,
+  "total": 10,
+  "kill_rate": 0.9,
+  "pass": true
+}

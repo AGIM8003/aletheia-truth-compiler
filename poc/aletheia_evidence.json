@@ -1,0 +1,24 @@
+{
+  "framework": "ALETHEIA",
+  "author": "Haxhijaha, Agim",
+  "orcid": "0009-0002-3234-7765",
+  "timestamp": "2026-07-17T07:11:12.562288+00:00",
+  "certifications": [
+    {
+      "item": "LAB_NOTE",
+      "certified": true,
+      "depth": 1
+    },
+    {
+      "item": "SECOND_LAB",
+      "certified": true,
+      "depth": 0
+    }
+  ],
+  "receipt": {
+    "conclusion": "SUPPORTED",
+    "independence": 1.0,
+    "digest": "3c866d8e866ad7cb5c26850e497e1e66"
+  },
+  "pass": true
+}
