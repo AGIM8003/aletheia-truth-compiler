@@ -1,32 +1,44 @@
 {
   "title": "ALETHEIA Truth Compiler: Complete Blueprint for Information Certification, Evidence DNA, and Truth Discovery",
-  "description": "ALETHEIA is a proposed local-first and open-protocol infrastructure for Evidence DNA, information certification, and bounded truth discovery. It preserves information lineage, separates integrity certification from truth claims, detects hidden source dependency, tests contradiction and falsification, represents uncertainty, and produces reproducible Truth Receipts. The work is an independent technical blueprint. It does not claim universal or absolute truth detection, an implemented reference system, scientific validation, patent protection, or peer review.",
+  "description": "<p><strong>Problem.</strong> Digital information in the age of generative AI faces three coupled failures: provenance opacity (where did this come from?), integrity ambiguity (has it been altered?), and overclaimed truth (what can the evidence actually support?). Dashboards and fact-check workflows often treat agreement as warrant even when sources share origins.</p><p><strong>Gap.</strong> Existing provenance tools track jobs and datasets; content-addressed stores protect bytes; editorial fact-checking relies on process. None combine Evidence DNA, certification-without-truth, and independence-sensitive Truth Receipts that can honestly return CURRENTLY_UNKNOWABLE under shared origins.</p><p><strong>Proposed solution.</strong> ALETHEIA proposes a local-first, authority-independent architecture for Evidence DNA (content-addressed lineage), Information Certification (integrity and provenance without asserting truth), and Bounded Truth Discovery (contradiction, falsification search, source independence, reproducible receipts).</p><p><strong>Key evidence (v3.0.0).</strong> This Public Research Edition adds an importable research library (<code>from aletheia import ALETHEIAEngine</code>), Reality Gate PASS (7/7), benchmarks, mutation testing \u226590%, alternative-implementation replication, a scientific false-plurality real-world scenario, and stress tests to 2000 evidence nodes with iterative provenance-depth computation.</p><p><strong>Honest limits.</strong> ALETHEIA does not claim absolute truth detection, production deployment, peer review, or independent human replication. Concept DOI: 10.5281/zenodo.21344789. Released for evaluation, citation, and attempted falsification.</p>",
   "upload_type": "publication",
-  "publication_type": "technicalnote",
+  "publication_type": "workingpaper",
   "creators": [
     {
       "name": "Haxhijaha, Agim",
-      "affiliation": "Independent Researcher",
-      "orcid": "0009-0002-3234-7765"
+      "orcid": "0009-0002-3234-7765",
+      "affiliation": "Independent Researcher"
     }
   ],
-  "publication_date": "2026-07-13",
-  "version": "2.0",
+  "publication_date": "2026-07-17",
+  "version": "3.0.0",
   "language": "eng",
+  "access_right": "open",
   "license": "cc-by-nc-nd-4.0",
   "keywords": [
-    "Evidence DNA",
-    "evidence provenance",
-    "information certification",
-    "truth discovery",
-    "truth receipts",
-    "source independence",
-    "artificial intelligence reliability",
-    "metacognition",
-    "cryptographic lineage",
-    "uncertainty",
+    "evidence-dna",
+    "evidence-provenance",
+    "information-certification",
+    "truth-discovery",
+    "truth-receipts",
+    "source-independence",
+    "artificial-intelligence-reliability",
+    "cryptographic-lineage",
     "falsification",
-    "information integrity"
+    "uncertainty"
   ],
-  "notes": "Independent technical blueprint. Version 2.0. Not peer reviewed. Proposed architecture; reference implementation not yet built. Generative AI tools assisted preparation and organization. The named author is responsible for the released content and publication decision."
+  "notes": "Independent Research Publication No. 1. v3.0.0 Public Research Edition upgrade. Concept DOI 10.5281/zenodo.21344789. Not peer reviewed. Not independently replicated. Not production. Generative AI tools assisted preparation. Author responsible for content. PDF REGENERATION NEEDED before Zenodo version deposit.",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21344789",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/AGIM8003/aletheia-truth-compiler",
+      "relation": "isSupplementedBy",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
 }

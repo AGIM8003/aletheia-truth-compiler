@@ -1,0 +1,48 @@
+{
+  "framework": "ALETHEIA",
+  "gate": "ALETHEIA-REALITY-GATE-1",
+  "author": "Haxhijaha, Agim",
+  "orcid": "0009-0002-3234-7765",
+  "timestamp": "2026-07-17T07:34:13.309632+00:00",
+  "version": "3.0.0",
+  "results": [
+    {
+      "name": "integrity_certify",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "provenance_depth",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "revoke_blocks_cert",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "revoked_source_blocks_child",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "shared_origin_unknowable",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "independent_support",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "contradiction_detected",
+      "pass": true,
+      "error": null
+    }
+  ],
+  "passed": 7,
+  "total": 7,
+  "GATE_VERDICT": "PASS"
+}

@@ -1,39 +1,37 @@
 # ALETHEIA Truth Compiler
 
-**Author:** Agim Haxhijaha  
-**Role:** Independent Researcher  
-**Version:** 2.0  
-**Status:** Proposed architecture; reference implementation not yet built  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21344789.svg)](https://doi.org/10.5281/zenodo.21344789)
+
+**Author:** Agim Haxhijaha · Independent Researcher · ORCID [0009-0002-3234-7765](https://orcid.org/0009-0002-3234-7765)  
+**Edition:** v3.0.0 Public Research Edition  
+**Status:** READY FOR VERSIONED ZENODO UPDATE · research library + Reality Gate evidence  
 **License:** CC BY-NC-ND 4.0
 
-ALETHEIA is a proposed local-first, open-protocol infrastructure for Evidence
-DNA, information certification, and bounded truth discovery.
+## Summary
 
-It is designed to preserve how information was acquired and transformed,
-separate integrity certification from truth claims, identify hidden source
-dependencies, test contradiction and falsification, represent uncertainty, and
-produce reproducible Truth Receipts.
+ALETHEIA is a proposed local-first architecture for Evidence DNA, information certification (without asserting truth), and bounded truth discovery with independence-sensitive Truth Receipts.
 
-The project does not claim universal or absolute truth detection. A public
-blueprint is not equivalent to an implemented or scientifically validated
-system.
+## Authoritative documents
 
-## Primary publication
+- SSOT: `ALETHEIA_v3.0.0_PUBLIC_RESEARCH_EDITION.md`
+- API: `ALETHEIA_API_REFERENCE.md`
+- Readiness: `PUBLICATION_READINESS_REPORT.md`
 
-The canonical publication is the Version 2.0 PDF and Markdown specification.
+## Quickstart
 
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.21344789
-- **Author ORCID:** https://orcid.org/0009-0002-3234-7765
-- **GitHub Repository:** https://github.com/AGIM8003/aletheia-truth-compiler
+```bash
+cd poc
+python aletheia_quickstart.py
+```
 
-
-## Collaboration
-
-Researchers, developers, institutions, investors, and implementation partners
-may use the repository issue tracker to contact the author about review,
-research collaboration, licensing, pilot implementation, or funding.
+```python
+from aletheia import ALETHEIAEngine
+```
 
 ## Citation
 
-Use the repository `CITATION.cff` file or the final citation displayed by the
-Zenodo record.
+Haxhijaha, A. (2026). ALETHEIA Truth Compiler (Version 3.0.0). Zenodo. https://doi.org/10.5281/zenodo.21344789
+
+## Honest limits
+
+Not peer reviewed. Not independently replicated. Not production. Does not claim absolute truth detection.

@@ -1,32 +1,28 @@
 cff-version: 1.2.0
 message: "If you use or discuss this work, please cite it using this metadata."
 title: "ALETHEIA Truth Compiler: Complete Blueprint for Information Certification, Evidence DNA, and Truth Discovery"
-type: report
+type: software
 authors:
   - family-names: "Haxhijaha"
     given-names: "Agim"
     affiliation: "Independent Researcher"
     orcid: "https://orcid.org/0009-0002-3234-7765"
+    email: "agim@vertogroup.ai"
 doi: "10.5281/zenodo.21344789"
-version: "2.0"
-date-released: "2026-07-13"
+version: "3.0.0"
+date-released: "2026-07-17"
 repository-code: "https://github.com/AGIM8003/aletheia-truth-compiler"
 license: "CC-BY-NC-ND-4.0"
 abstract: >-
-  A proposed local-first and open-protocol architecture for Evidence DNA,
-  information certification, bounded truth discovery, source-independence
-  analysis, contradiction testing, falsification, uncertainty representation,
-  and reproducible Truth Receipts. The publication does not claim universal or
-  absolute truth detection and does not claim an implemented or scientifically
-  validated system.
+  Digital information in the age of generative AI faces three coupled failures: provenance opacity (where did this come from?), integrity ambiguity (has it been altered?), and overclaimed truth (what can the evidence actually support?). Existing provenance tools track jobs and datasets; content-addressed stores protect bytes; fact-checking relies on editorial process. None combine Evidence DNA, certification-without-truth, and independence-sensitive Truth Receipts that can honestly return CURRENTLY_UNKNOWABLE under shared origins. ALETHEIA proposes a local-first, authority-independent architecture for Evidence DNA (content-addressed lineage), Information Certification (integrity and provenance without asserting truth), and Bounded Truth Discovery (contradiction, falsification search, source independence, reproducible receipts). This Public Research Edition (v3.0.0) adds an importable research library (from aletheia import ALETHEIAEngine), Reality Gate PASS (7/7), benchmarks, mutation testing ≥90%, alternative-implementation replication, a scientific false-plurality real-world scenario, and stress tests to 2000 evidence nodes. It does not claim absolute truth detection, production deployment, peer review, or independent human replication. DOI: 10.5281/zenodo.21344789. Released for evaluation, citation, and attempted falsification.
 keywords:
-  - "Evidence DNA"
-  - "evidence provenance"
-  - "information certification"
-  - "truth discovery"
-  - "source independence"
-  - "artificial intelligence reliability"
-  - "metacognition"
-  - "cryptographic lineage"
-  - "uncertainty"
+  - "evidence-dna"
+  - "evidence-provenance"
+  - "information-certification"
+  - "truth-discovery"
+  - "truth-receipts"
+  - "source-independence"
+  - "artificial-intelligence-reliability"
+  - "cryptographic-lineage"
   - "falsification"
+  - "uncertainty"

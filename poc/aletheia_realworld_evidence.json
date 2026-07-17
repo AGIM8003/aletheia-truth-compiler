@@ -1,0 +1,26 @@
+{
+  "framework": "ALETHEIA",
+  "author": "Haxhijaha, Agim",
+  "orcid": "0009-0002-3234-7765",
+  "timestamp": "2026-07-17T07:11:13.068413+00:00",
+  "scenario": "scientific_claim_hidden_shared_preprint",
+  "shared_origins": [
+    {
+      "origin_id": "PREPRINT_X",
+      "used_by": [
+        "PAPER_A",
+        "PAPER_B"
+      ]
+    }
+  ],
+  "false_plurality_receipt": {
+    "conclusion": "CURRENTLY_UNKNOWABLE",
+    "independence": 0.6667
+  },
+  "with_rct_receipt": {
+    "conclusion": "CONTRADICTED",
+    "independence": 0.0
+  },
+  "what_existing_approaches_miss": "Citation counts and journal prestige treat PAPER_A/B/NEWSWIRE as three independent confirmations; Evidence DNA shows they share PREPRINT_X.",
+  "pass": true
+}

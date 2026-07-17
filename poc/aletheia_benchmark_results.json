@@ -1,0 +1,26 @@
+{
+  "framework": "ALETHEIA",
+  "author": "Haxhijaha, Agim",
+  "orcid": "0009-0002-3234-7765",
+  "timestamp": "2026-07-17T07:11:12.721136+00:00",
+  "build_seconds": 0.000388,
+  "cases": [
+    {
+      "name": "chain_200_certify",
+      "pass": true,
+      "seconds": 0.000118
+    },
+    {
+      "name": "independence_50",
+      "pass": true,
+      "seconds": 9.8e-05,
+      "score": 0.7551
+    },
+    {
+      "name": "receipt_independent",
+      "pass": true,
+      "seconds": 0.0
+    }
+  ],
+  "pass": true
+}

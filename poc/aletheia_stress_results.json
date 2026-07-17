@@ -1,0 +1,54 @@
+{
+  "framework": "ALETHEIA",
+  "author": "Haxhijaha, Agim",
+  "orcid": "0009-0002-3234-7765",
+  "timestamp": "2026-07-17T07:11:12.989065+00:00",
+  "curve": [
+    {
+      "n": 100,
+      "timing_s": {
+        "build": 0.000797,
+        "certify": 0.000197,
+        "independence": 6.5e-05,
+        "total": 0.001091
+      },
+      "peak_mb": 0.0683,
+      "certified": true
+    },
+    {
+      "n": 500,
+      "timing_s": {
+        "build": 0.003244,
+        "certify": 0.000947,
+        "independence": 0.000128,
+        "total": 0.004442
+      },
+      "peak_mb": 0.3203,
+      "certified": true
+    },
+    {
+      "n": 1000,
+      "timing_s": {
+        "build": 0.006584,
+        "certify": 0.00167,
+        "independence": 0.000132,
+        "total": 0.008771
+      },
+      "peak_mb": 0.5982,
+      "certified": true
+    },
+    {
+      "n": 2000,
+      "timing_s": {
+        "build": 0.013891,
+        "certify": 0.006786,
+        "independence": 0.00036,
+        "total": 0.021879
+      },
+      "peak_mb": 1.2715,
+      "certified": true
+    }
+  ],
+  "bottleneck_operation": "build",
+  "pass": true
+}
